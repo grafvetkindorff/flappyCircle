@@ -1,0 +1,13 @@
+D:\projects\flappyCircle\flappyCircle\ARM\Release\flappyCircle.apk.recipe
+D:\projects\flappyCircle\flappyCircle\ARM\Release\flappyCircle.apk.recipe.merged
+D:\projects\flappyCircle\flappyCircle\ARM\Release\Package\libs\armeabi-v7a\libflappyCircle.so
+D:\projects\flappyCircle\flappyCircle\ARM\Release\Package\libs\armeabi-v7a\gdbserver
+D:\projects\flappyCircle\flappyCircle\ARM\Release\Package\libs\armeabi-v7a\libgnustl_static.a
+D:\projects\flappyCircle\flappyCircle\ARM\Release\Package\libs\armeabi-v7a\libflappyCircle.a
+D:\projects\flappyCircle\flappyCircle\ARM\Release\Package\res\values\strings.xml
+D:\projects\flappyCircle\flappyCircle\ARM\Release\Package\AndroidManifest.xml
+D:\projects\flappyCircle\flappyCircle\ARM\Release\Package\project.properties
+D:\projects\flappyCircle\flappyCircle\ARM\Release\Package\build.xml
+D:\projects\flappyCircle\flappyCircle\ARM\Release\flappyCircle.apk
+D:\projects\flappyCircle\flappyCircle\ARM\Release\flappyCircle.lastsuccessfuldeploy
+D:\projects\flappyCircle\flappyCircle\flappyCircle\flappyCircle.Android.Application\ARM\Release\FileStringReplace.incremental

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<project>
+  <SOLibPaths>D:\projects\flappyCircle\flappyCircle\x86\Debug\libflappyCircle.so;C:\ProgramData\Microsoft\AndroidNDK64\android-ndk-r10e\prebuilt\android-x86\gdbserver\gdbserver;C:\ProgramData\Microsoft\AndroidNDK64\android-ndk-r10e\sources\cxx-stl\gnu-libstdc++\4.9\libs\x86\libgnustl_static.a</SOLibPaths>
+  <AndroidLibPaths />
+  <OObjPaths>D:\projects\flappyCircle\flappyCircle\flappyCircle\flappyCircle.Android.NativeActivity\x86\Debug</OObjPaths>
+  <Configuration>Debug</Configuration>
+  <Platform>x86</Platform>
+  <AndroidArchitecture>x86</AndroidArchitecture>
+  <!--links to other recipe files-->
+  <RecipeFiles>D:\projects\flappyCircle\flappyCircle\x86\Debug\libflappyCircle.a.recipe</RecipeFiles>
+</project>

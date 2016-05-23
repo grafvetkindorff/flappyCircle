@@ -1,0 +1,13 @@
+D:\projects\flappyCircle\flappyCircle\x86\Debug\flappyCircle.apk.recipe
+D:\projects\flappyCircle\flappyCircle\x86\Debug\flappyCircle.apk.recipe.merged
+D:\projects\flappyCircle\flappyCircle\x86\Debug\Package\libs\x86\libflappyCircle.so
+D:\projects\flappyCircle\flappyCircle\x86\Debug\Package\libs\x86\gdbserver
+D:\projects\flappyCircle\flappyCircle\x86\Debug\Package\libs\x86\libgnustl_static.a
+D:\projects\flappyCircle\flappyCircle\x86\Debug\Package\libs\x86\libflappyCircle.a
+D:\projects\flappyCircle\flappyCircle\x86\Debug\Package\res\values\strings.xml
+D:\projects\flappyCircle\flappyCircle\x86\Debug\Package\AndroidManifest.xml
+D:\projects\flappyCircle\flappyCircle\x86\Debug\Package\project.properties
+D:\projects\flappyCircle\flappyCircle\x86\Debug\Package\build.xml
+D:\projects\flappyCircle\flappyCircle\x86\Debug\flappyCircle.apk
+D:\projects\flappyCircle\flappyCircle\x86\Debug\flappyCircle.lastsuccessfuldeploy
+D:\projects\flappyCircle\flappyCircle\flappyCircle\flappyCircle.Android.Application\x86\Debug\FileStringReplace.incremental

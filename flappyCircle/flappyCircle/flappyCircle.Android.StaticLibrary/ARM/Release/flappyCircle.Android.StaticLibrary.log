@@ -1,0 +1,15 @@
+﻿  ANDROID_HOME=C:\Program Files (x86)\Android\android-sdk
+  ANT_HOME=C:\Program Files (x86)\Microsoft Visual Studio 14.0\Apps\apache-ant-1.9.3\
+  JAVA_HOME=C:\Program Files (x86)\Java\jdk1.7.0_55
+  NDK_ROOT=C:\ProgramData\Microsoft\AndroidNDK64\android-ndk-r10e\
+  pch.h
+  Renderer.cpp
+D:\projects\flappyCircle\flappyCircle\flappyCircle\flappyCircle.Shared\Renderer.cpp(361,3): warning : '&&' within '||' [-Wlogical-op-parentheses]
+                  && !(1.0f - xMoveStep >= -0.45)) {
+                  ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  D:\projects\flappyCircle\flappyCircle\flappyCircle\flappyCircle.Shared\Renderer.cpp(361,3) :  note: place parentheses around the '&&' expression to silence this warning
+                  && !(1.0f - xMoveStep >= -0.45)) {
+                  ^
+  1 warning generated.
+  C:\ProgramData\Microsoft\AndroidNDK64\android-ndk-r10e\toolchains\arm-linux-androideabi-4.9\prebuilt\windows-x86_64\bin\arm-linux-androideabi-ar.exe: creating D:\projects\flappyCircle\flappyCircle\ARM\Release\libflappyCircle.a
+  flappyCircle.Android.StaticLibrary.vcxproj -> D:\projects\flappyCircle\flappyCircle\ARM\Release\libflappyCircle.a
